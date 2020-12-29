@@ -1,6 +1,7 @@
 # Action-jd-scripts
 
-- [jd_scripts](https://github.com/lxk0301/jd_scripts) 的action模板
+
+  - [jd_scripts](https://github.com/lxk0301/jd_scripts) 的action模板
 - [Action 参数说明](https://github.com/lxk0301/jd_scripts/blob/master/githubAction.md)
 
 ## 使用说明
